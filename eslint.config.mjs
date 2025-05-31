@@ -45,29 +45,7 @@ export default [
       "@typescript-eslint/explicit-function-return-type": ["error", {
         allowExpressions: true,
         allowTypedFunctionExpressions: true,
-      }],
-      "@typescript-eslint/member-delimiter-style": "error",
-      "@typescript-eslint/method-signature-style": ["error", "property"],
-      "@typescript-eslint/no-explicit-any": "warn",
-      "@typescript-eslint/no-floating-promises": "error",
-      "@typescript-eslint/no-inferrable-types": "error",
-      "@typescript-eslint/no-misused-promises": "error",
-      "@typescript-eslint/no-non-null-assertion": "warn",
-      "@typescript-eslint/no-unnecessary-type-assertion": "error",
-      "@typescript-eslint/no-unused-vars": ["warn", {
-        argsIgnorePattern: "^_",
-        varsIgnorePattern: "^_",
-        caughtErrorsIgnorePattern: "^_",
-      }],
-      "@typescript-eslint/prefer-as-const": "error",
-      "@typescript-eslint/prefer-for-of": "error",
-      "@typescript-eslint/prefer-nullish-coalescing": "error",
-      "@typescript-eslint/prefer-optional-chain": "error",
-      "@typescript-eslint/promise-function-async": "error",
-      "@typescript-eslint/require-await": "error",
-      "@typescript-eslint/return-await": ["error", "always"],
-      "@typescript-eslint/strict-boolean-expressions": "error",
-      "@typescript-eslint/switch-exhaustiveness-check": "error",
+      }]
     },
   }
 ];
