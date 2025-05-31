@@ -37,7 +37,6 @@ export default [
       "@typescript-eslint/adjacent-overload-signatures": "error",
       "@typescript-eslint/array-type": ["error", { default: "array-simple" }],
       "@typescript-eslint/await-thenable": "error",
-      "@typescript-eslint/ban-types": "error",
       "@typescript-eslint/consistent-type-assertions": ["error", {
         assertionStyle: "as",
         objectLiteralTypeAssertions: "never",
