@@ -1,4 +1,4 @@
-var test = function(text) {
+var test = function(text) { 
     return text;
 }
 var test2 = function(text) {
