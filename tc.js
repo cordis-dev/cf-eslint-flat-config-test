@@ -1,4 +1,4 @@
-var ifElseTest = function(text) {
+var ifElseTest = function(text) { 
 	if (text === "1") {
 		return text;
 	} else if (text === "2") {
